@@ -8,7 +8,7 @@ on:
 
 jobs:
   semgrep:
-    name: Semgrep SAST  
+    name: Semgrep SAST
     runs-on: ubuntu-latest
     container:
       image: semgrep/semgrep
