@@ -32,3 +32,4 @@ jobs:
         with:
           name: semgrep-results
           path: semgrep-results.json
+          
